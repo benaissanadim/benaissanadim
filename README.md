@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="programmer.gif">
 
 
-- 🔭 I’m currently studying in **Polytech Nice Sophia**
+- 🔭 I’m currently studying computer science in **Polytech Nice Sophia**
 
 - 🌱 I’m currently working as software engineer apprentice at **Amadeus**
 
