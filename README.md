@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nadim BEN AISSA</h1>
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/7SvE.gif">
 
-<!--
-**benaissanadim/benaissanadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying in **Polytech Nice Sophia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working as software engineer apprentice at **Amadeus**
+
+- 📫 How to reach me **nadim.ben.aissaa@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nadim-ben-aissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benaissanadim&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="benaissanadim" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benaissanadim&theme=tokyonight" alt="benaissanadim" />
+</p>
